@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Recylerview</string>
+
+    <string name="tentangSaya">Saya adalah seorang Android Developer yang telah bekerja di perusahaan
+        x selama 3 tahun. Saya mampu mengerjakan project aplikasi berbasis Android baik secara
+    individual maupun secara teamwork. Saya telah mengerjakan beberapa aplikasi yang telah di upload
+    ke Play Store.
+    </string>
+</resources>
