@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity implements ItemClickListener
         //setContentView(R.layout.activity_main);
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main);
 
-        binding.toolbar.setTitle("Simple RecyclerView");
+        binding.toolbar.setTitle("SubmissionDicoding");
         binding.toolbar.setTitleTextColor(Color.WHITE);
 
         listItem = new ArrayList<>();

@@ -75,7 +75,8 @@
                 android:id="@+id/itemno"
                 android:text="noitem"
                 android:textColor="@android:color/black"
-                android:textSize="12sp"/>
+                android:textSize="12sp"
+                android:visibility="gone"/>
 
             <TextView
                 android:id="@+id/imgname"
@@ -84,7 +85,8 @@
                 android:text="LENKOTE EVERGLOW"
                 android:textSize="14sp"
                 android:textStyle="bold"
-                android:textColor="@android:color/black"/>
+                android:textColor="@android:color/black"
+                android:visibility="gone"/>
 
             <TextView
                 android:id="@+id/deskription"
@@ -92,7 +94,8 @@
                 android:layout_height="wrap_content"
                 android:text="US12+Us28 Locked"
                 android:textColor="@android:color/black"
-                android:textSize="13sp"/>
+                android:textSize="13sp"
+                android:visibility="gone"/>
 
             <TextView
                 android:id="@+id/hargacoret"
@@ -138,7 +141,7 @@
                 android:textSize="12sp"
                 android:text="80x80"
                 android:layout_marginBottom="5dp"
-                android:visibility="visible"/>
+                android:visibility="gone"/>
         </LinearLayout>
 
     </LinearLayout>

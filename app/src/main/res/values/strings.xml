@@ -1,9 +1,17 @@
 <resources>
-    <string name="app_name">Simple Recylerview</string>
+    <string name="app_name">SubmissionDicoding</string>
 
-    <string name="tentangSaya">Saya adalah seorang Android Developer yang telah bekerja di perusahaan
-        x selama 3 tahun. Saya mampu mengerjakan project aplikasi berbasis Android baik secara
-    individual maupun secara teamwork. Saya telah mengerjakan beberapa aplikasi yang telah di upload
-    ke Play Store.
+    <string name="namaSaya">Dandi Prayogatama</string>
+
+    <string name="username">a0050494@bangkit.academy</string>
+
+    <string name="tentangSaya">am interested to be a part of the organization where I can fully utilize
+        my skills and make a significant contribution to the success of the employer and at
+        the same time my individual growth. It is also an opportunity to explore and gain
+        knowledge as much as possible in informatics Engineering filed for future preparations.
     </string>
+
+    <string name="headline">Mobile Programming</string>
+
+
 </resources>

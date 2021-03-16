@@ -22,7 +22,7 @@ public class AboutActivity extends AppCompatActivity {
         //setContentView(R.layout.activity_about);
         binding = DataBindingUtil.setContentView(this, R.layout.activity_about);
 
-        binding.toolbar.setTitle("Detail Produk");
+        binding.toolbar.setTitle("About");
         binding.toolbar.setTitleTextColor(Color.WHITE);
         binding.toolbar.setNavigationIcon(R.drawable.ic_arrow_back_white);
         setSupportActionBar(binding.toolbar);
